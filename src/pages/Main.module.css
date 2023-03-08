@@ -1,0 +1,14 @@
+.container {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 60px;
+  /* margin-left: -5px; */
+}
+
+.Position {
+  margin-left: 67px;
+  margin-top: 2px;
+}
