@@ -1,0 +1,11 @@
+.logindiv { 
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(201, 200, 200);
+
+    
+}
